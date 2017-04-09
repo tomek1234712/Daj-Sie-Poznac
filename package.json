@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Template",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomek1234712/daj-sie-poznac.git"
+  },
+  "keywords": [
+    "Redziamo#@123"
+  ],
+  "author": "Tomasz Szczepaniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomek1234712/daj-sie-poznac/issues"
+  },
+  "homepage": "https://github.com/tomek1234712/daj-sie-poznac#readme"
+}
